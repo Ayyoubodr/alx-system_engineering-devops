@@ -1,2 +1,2 @@
 #!/bin/bash
-rev
+# Read input from command line
